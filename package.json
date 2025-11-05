@@ -1,0 +1,8 @@
+{
+  "name": "saralweb-sde-merge-time-ranges",
+  "version": "1.0.0",
+  "description": "NodeJS module to merge discontinuous time ranges with a gap threshold.",
+  "main": "my-module.js",
+  "type": "commonjs",
+  "license": "MIT"
+}
